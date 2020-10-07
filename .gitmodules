@@ -1,0 +1,3 @@
+[submodule "ige_stock"]
+	path = ige_stock
+	url = https://github.com/myayahmonehlaing/ige_stock.git
